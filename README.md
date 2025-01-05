@@ -4,8 +4,8 @@
 
 
 ## Education							       		
-- Masters Degree, Computer Science	| The University of Dayton at OH (_December 2023_)	 			        		
-- Bachelors Degree, Electronics & Communication | GRIET at Hyderabad,India (_May 2021_)
+- Masters Degree, Computer Science	| The University of Dayton at OH  			        		
+- Bachelors Degree, Electronics & Communication | GRIET at Hyderabad,India 
 
 ## Work Experience
 **Java Developer @ AES Ohio (_October 2022 - December 2023_)**
