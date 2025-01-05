@@ -6,7 +6,7 @@
 Java, C, C++, J2EE SQL, MYSQL, Springboot, Microservices ElasticDB, MongoDB Dynatrace, ServiceNow Rancher, Harness, Jenkins Docker, Kubernetes, Angular, React, ViewJS Typescript, NodeJS, Kafka, Cassandra Zookeeper Postman, Swagger, Grafana Echo, Prometheus, Cerebro Junit, Mockito, Jira, Github
 
 ### Work Experience
--Java Developer|AES Ohio – Cincinnati, OH|Duration - 09/2022 –12/2023
+-Java Developer|AES Ohio – Cincinnati, OH|Duration - 09/2022 –12/2023/n
 -Java Developer|Meijer – Walker, MI|Duration - 02/2021 – 08/2022
 -Java Developer|Nanomindz  Technology – Hyderabad, IN|Duration - 11/2019 – 01/2021
 -Java Developer|Client: Teradata India Private Limited - Telangana,IN|Duration: 09/2018 – 11/2019
