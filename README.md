@@ -2,13 +2,12 @@
 
 #### Technical Skills: Java, C, C++, J2EE SQL, MYSQL, Springboot, Microservices ElasticDB, MongoDB Dynatrace, ServiceNow Rancher, Harness, Jenkins Docker, Kubernetes, Angular, React, ViewJS Typescript, NodeJS, Kafka, Cassandra Zookeeper Postman, Swagger, Grafana Echo, Prometheus, Cerebro Junit, Mockito, Jira, Github
 
-
 ## Education							       		
 - Masters Degree, Computer Science	| The University of Dayton at OH  			        		
 - Bachelors Degree, Electronics & Communication | GRIET at Hyderabad,India 
 
 ## Work Experience
-**Java Developer @ AES Ohio (_October 2022 - December 2023_)**
+**Java Developer @ AES Ohio (_September 2022 - December 2023_)**
 •	Enhanced application performance by optimizing Java code and implementing efficient algorithms using Java 8+ features like streams and Lambda expressions.
 •	Designed and developed scalable RESTful APIs using Spring Boot, ensuring secure and efficient communication between microservices.
 •	Created and validated API endpoints using Postman and Swagger, returning structured JSON responses.
@@ -36,6 +35,34 @@
 •  Conducted application monitoring and latency optimization using AWS ELB, CloudWatch, and other monitoring tools.
 •  Improved application maintainability by designing reusable front-end components and modular back-end logic.
 
+**Java Developer @ Nanomindz  Technology (_November 2019 - January 2021_)**
+•	Developed intuitive front-end interfaces using React.js, HTML5, CSS3, and JavaScript, ensuring a seamless user experience.
+•	Built robust microservices with Spring Boot, integrating them with Kafka for event-driven messaging.
+•	Automated provisioning tasks using Terraform and Python, reducing deployment time and manual effort.
+•	Designed secure applications by implementing Spring Security, including authentication and role-based access.
+•	Optimized back-end processes with MongoDB, Redis, and caching mechanisms to improve API response times.
+•	Monitored cloud infrastructure activities using CloudWatch and CloudTrail, and set up logging with Datadog.
+•	Enhanced component modularity using React-Redux for efficient state management and built reusable components like Tree View and Table Grid.
+•	Designed APIs with JSON templates, improving data interchange between front-end and back-end services.
+•	Integrated Selenium Actions for automated UI testing, ensuring smooth hover actions and other dynamic elements.
+
+**Java Developer @ Teradata India Private Limited (_September 2018 - November 2019_)**
+•	Designed scalable RESTful APIs using Spring Boot and deployed applications in containerized environments.
+•	Developed dynamic front-end interfaces using Vue.js and Bootstrap, enabling two-way data binding.
+•	Monitored cloud infrastructure activities using AWS CloudWatch and CloudTrail, implementing proactive alerts.
+•	Conducted rigorous testing with JUnit and Mockito, ensuring code quality and minimizing bugs.
+•	Developed microservices with Spring Boot for internal tools, ensuring modularity and scalability.
+•	Conducted comprehensive performance audits, optimizing database queries for ElasticSearch.
+•	Enhanced system monitoring with Prometheus and Grafana, improving observability and uptime.
+•	Worked with multi-threaded Java applications to enhance data processing throughput.
+•	Performed short-term project deliveries with a strong focus on Agile methodologies.
+
+**Java Developer @ Clove Technologies (_March 2018 - August 2018_)**
+•	Developed RESTful APIs using Spring MVC, enabling integration with legacy systems.
+•	Implemented database optimizations for MySQL, improving query performance for high-traffic applications.
+•	Enhanced CI/CD pipelines with Jenkins, streamlining build and deployment processes.
+•	Utilized AngularJS for dynamic UI components, improving user interaction capabilities.
+•	Conducted performance testing using JMeter, ensuring application scalability and reliability.
 
 ## Projects
 **Real-Time Energy Monitoring Platform for AES Ohio**
