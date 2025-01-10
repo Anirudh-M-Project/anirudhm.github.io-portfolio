@@ -7,7 +7,7 @@
 - Bachelors Degree, Electronics & Communication | GRIET at Hyderabad,India 
 
 ## Work Experience
-**Java Developer @ AES Ohio (_September 2022 - December 2023_)**
+**Java Developer @ AES Ohio (_February 2024 - Present_)**
 •	Enhanced application performance by optimizing Java code and implementing efficient algorithms using Java 8+ features like streams and Lambda expressions.
 •	Designed and developed scalable RESTful APIs using Spring Boot, ensuring secure and efficient communication between microservices.
 •	Created and validated API endpoints using Postman and Swagger, returning structured JSON responses.
@@ -24,7 +24,7 @@
 •	Performed root-cause analysis for production issues, implementing permanent fixes and optimizations.
 •	Worked closely with DevOps teams to enhance deployment strategies and minimize downtime. 
 
-**Java Developer @ Meijer (_February 2021 - August 2022_)**
+**Java Developer @ Meijer (_September 2022 - January 2024_)**
 •  Developed enterprise-grade applications using Spring MVC, employing IOC for dependency injection and AOP for modularization.
 •  Built scalable SOAP-based services and implemented RESTful APIs for integrating third-party systems.
 •  Designed and implemented user-friendly interfaces using Vue.js, AngularJS, and Bootstrap, enabling dynamic two-way data binding.
@@ -35,7 +35,19 @@
 •  Conducted application monitoring and latency optimization using AWS ELB, CloudWatch, and other monitoring tools.
 •  Improved application maintainability by designing reusable front-end components and modular back-end logic.
 
-**Java Developer @ Nanomindz  Technology (_November 2019 - January 2021_)**
+**Java Developer @ Target (_January 2021 - July 2022_)**
+•	Developed scalable microservices using Spring Boot, ensuring seamless integration with event-driven systems like Kafka.
+•	Enhanced user experience by building intuitive front-end components using AngularJS, Vue.js, and React.js for dynamic and responsive interfaces.
+•	Designed and deployed RESTful APIs with secure data transmission, leveraging Swagger for documentation and Postman for validation.
+•	Implemented robust CI/CD pipelines using Jenkins and Harness, ensuring automated builds and deployments in a Dockerized environment.
+•	Utilized Google Kubernetes Engine (GKE) for orchestrating containerized applications, ensuring high availability and performance.
+•	Streamlined system observability by setting up dashboards and alerts in Grafana and Prometheus, optimizing real-time monitoring.
+•	Conducted rigorous unit testing with JUnit and Mockito, ensuring high-quality code deliverables.
+•	Improved backend performance by optimizing database queries in MongoDB and Cassandra, handling large-scale data processing.
+•	Actively participated in Agile sprints, fostering collaboration and iterative development within cross-functional teams.
+•	Enhanced system reliability through proactive root-cause analysis and implementing performance optimizations.
+
+**Java Developer @ Nanomindz  Technology (_December 2019 - December 2020_)**
 •	Developed intuitive front-end interfaces using React.js, HTML5, CSS3, and JavaScript, ensuring a seamless user experience.
 •	Built robust microservices with Spring Boot, integrating them with Kafka for event-driven messaging.
 •	Automated provisioning tasks using Terraform and Python, reducing deployment time and manual effort.
@@ -46,7 +58,7 @@
 •	Designed APIs with JSON templates, improving data interchange between front-end and back-end services.
 •	Integrated Selenium Actions for automated UI testing, ensuring smooth hover actions and other dynamic elements.
 
-**Java Developer @ Teradata India Private Limited (_September 2018 - November 2019_)**
+**Java Developer @ Teradata India Private Limited (_January 2019 - November 2019_)**
 •	Designed scalable RESTful APIs using Spring Boot and deployed applications in containerized environments.
 •	Developed dynamic front-end interfaces using Vue.js and Bootstrap, enabling two-way data binding.
 •	Monitored cloud infrastructure activities using AWS CloudWatch and CloudTrail, implementing proactive alerts.
@@ -57,7 +69,7 @@
 •	Worked with multi-threaded Java applications to enhance data processing throughput.
 •	Performed short-term project deliveries with a strong focus on Agile methodologies.
 
-**Java Developer @ Clove Technologies (_March 2018 - August 2018_)**
+**Java Developer @ Clove Technologies (_March 2018 - December 2018_)**
 •	Developed RESTful APIs using Spring MVC, enabling integration with legacy systems.
 •	Implemented database optimizations for MySQL, improving query performance for high-traffic applications.
 •	Enhanced CI/CD pipelines with Jenkins, streamlining build and deployment processes.
